@@ -62,7 +62,7 @@ btn.addEventListener('click', () => {
 })
 
 
-//here all the commands of jarvis
+//here all the commands of vinod
 function takeCommand(message) {
 
     if (message.includes('hi') || message.includes('hello')) {
